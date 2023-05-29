@@ -29,7 +29,7 @@ twitter_url: https://twitter.com/andrewbanchich
 # Build settings
 markdown: kramdown
 
-# Added
-sass:
-  sass_dir: _sass
-  # style: compressed
+# # Added
+# sass:
+#   sass_dir: _sass
+#   # style: compressed
