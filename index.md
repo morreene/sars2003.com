@@ -22,7 +22,7 @@ layout: default
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
-		<article>
+		<!-- <article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
 				<h3>Quam lorem ipsum</h3>
@@ -35,7 +35,7 @@ layout: default
 				<h3>Sed magna finibus</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
-		</article>
+		</article> -->
 	</div>
 </section>
 
@@ -69,7 +69,7 @@ layout: default
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
-		<article>
+		<!-- <article>
 			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
 			<h3>Sed etiam facilis</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
@@ -92,6 +92,6 @@ layout: default
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
-		</article>
+		</article> -->
 	</div>
 </section>
