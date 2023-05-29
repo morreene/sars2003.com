@@ -5,31 +5,26 @@
   <!--[if lte IE 8]><script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script><![endif]-->
   <script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
 
-
   <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      // Get all the link elements within the menu.
+      const links = document.querySelectorAll('#menu a');
 
-  window.addEventListener('DOMContentLoaded', (event) => {
-    // Get all the link elements within the menu.
-    const links = document.querySelectorAll('#menu a');
-
-    links.forEach((link) => {
-      // Check if the link should be active
-      if (link.href === window.location.href) {
-        // Find the parent <li> and add the 'active' class
-        let parent = link.parentElement;
-        while (parent.tagName !== 'LI') {
-          parent = parent.parentElement;
+      links.forEach((link) => {
+        // Check if the link should be active
+        if (link.href === window.location.href) {
+          // Find the parent <li> and add the 'active' class
+          let parent = link.parentElement;
+          while (parent.tagName !== 'LI') {
+            parent = parent.parentElement;
+          }
+          parent.classList.add('active');
+          
+          // If parent is in a submenu, add 'active' class to top-level parent too
+          if (parent.parentElement.parentElement.tagName === 'LI') {
+            parent.parentElement.parentElement.classList.add('active');
+          }
         }
-        parent.classList.add('active');
-        
-        // If parent is in a submenu, add 'active' class to top-level parent too
-        if (parent.parentElement.parentElement.tagName === 'LI') {
-          parent.parentElement.parentElement.classList.add('active');
-        }
-      }
+      });
     });
-  });
-
-
-
   </script>
