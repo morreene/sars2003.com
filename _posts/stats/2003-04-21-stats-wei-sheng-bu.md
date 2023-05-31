@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 卫生部4月21日全国(内地)非典型肺炎疫情通报
+title: 卫生部通报4月21日全国内地非典型肺炎最新疫情
 categories: [stats]
 # tags: [china, environment, trade]
 ---
