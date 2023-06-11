@@ -10,7 +10,7 @@ title: About
 <hr class="major" />
 
 <h2>Legal Disclaimer</h2>
-<p>The World Trade Data parties shall not be responsible or liable whatsoever in any manner for any content posted on the websites or services, including claims of infringement relating to content posted on the websites or services, for your use of the websites and services, or for the conduct of third parties whether on the websites, in connection with the services or otherwise relating to the websites or services.</p>
+<p>The SARS 2003 Data Archive shall not be responsible or liable whatsoever in any manner for any content posted on the websites or services, including claims of infringement relating to content posted on the websites or services, for your use of the websites and services, or for the conduct of third parties whether on the websites, in connection with the services or otherwise relating to the websites or services.</p>
 
 
 <hr class="major" />
