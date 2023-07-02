@@ -20,7 +20,7 @@ title: About
   <h2>Contact</h2>
     <p>Send a <em>message</em> <strong>below</strong>. </p>
     <div class="col col-sm-6">
-      <form method="POST" action="https://formspree.io/morreene@gmail.com">
+      <form method="POST" action="https://formspree.io/f/xqkvzjoy">
         <input type="email" name="email" placeholder="Your email" class="form-control">
         <br>
         <textarea name="message" placeholder="Your message" class="form-control"></textarea>
@@ -29,4 +29,3 @@ title: About
       </form>
     </div>
 </aside>
-
