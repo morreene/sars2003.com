@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 卫生部通报5月7日全国内地非典型肺炎最新疫情
+title: 卫生部通报5月13日全国内地非典型肺炎最新疫情
 categories: [stats]
 # tags: [china, environment, trade]
 ---
