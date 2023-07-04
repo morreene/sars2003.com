@@ -3,10 +3,10 @@ layout: default
 ---
 
 <!-- Section -->
-<section>
-	<!-- <header class="major">
+<!-- <section>
+	<header class="major">
 		<h2>Erat lacinia</h2>
-	</header> -->
+	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-database"></span>
@@ -37,5 +37,5 @@ layout: default
 			</div>
 		</article>
 	</div>
-</section>
+</section> -->
 
