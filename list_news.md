@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Chinese News about SARS 
 ---
 
 <ul>

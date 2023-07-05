@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Chinese offical statistics on SARS in 2003
 ---
 
 <ul>
