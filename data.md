@@ -4,6 +4,13 @@ title: Data
 ---
 
 
-We are currently in the process of integrating and reconciling the data we have collected. We anticipate that the data will be published within the next month. We appreciate your patience as we work diligently to ensure the accuracy and quality of the information. Thank you for your understanding.
+The dataset compiles the official announcements made by China's Public Health Ministry between April 20th and June 23th. 
+
+[Download CSV](data/data-20230820.csv)
 
 <hr class="major" />
+
+![Interesting Image](/data/output.png)
+![Interesting Image](/data/output2.png)
+
+
